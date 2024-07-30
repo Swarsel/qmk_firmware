@@ -1,16 +1,18 @@
 {
-    "manufacturer": "splitkb.com",
-    "url": "https://splitkb.com/products/kyria-pcb-kit",
-    "maintainer": "splitkb",
-    "usb": {
-        "vid": "0x8D1D",
-        "device_version": "1.0.0"
-    },
-    "development_board": "elite_c",
-    "split": {
-        "enabled": true
-    },
-    "build": {
-        "lto": true
-    }
+  "manufacturer": "splitkb.com",
+  "url": "https://splitkb.com/products/kyria-pcb-kit",
+  "maintainer": "splitkb",
+  "keyboard_name": "splitkb.com Kyria rev3",
+  "usb": {
+    "pid": "0xCF44",
+    "vid": "0x8D1D",
+    "device_version": "1.0.0"
+  },
+  "development_board": "elite_c",
+  "split": {
+    "enabled": true
+  },
+  "build": {
+    "lto": true
+  }
 }
